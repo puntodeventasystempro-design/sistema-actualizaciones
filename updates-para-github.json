@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "latestVersion": "2.0.0",
+  "releaseDate": "2026-03-08T00:00:00Z",
+  "critical": false,
+  "size": "15 MB",
+  "downloadUrl": "https://github.com/puntodeventasystempro-design/system-pro/releases/download/v2.0.0/sistema-facturacion-v2.0.0.zip",
+  "features": [
+    "🎉 Nueva versión 2.0 disponible",
+    "✨ Interfaz completamente rediseñada",
+    "🚀 Mejoras significativas en el rendimiento",
+    "📊 Nuevos reportes y estadísticas",
+    "🔒 Seguridad mejorada",
+    "💾 Sistema de backup automático mejorado",
+    "🖨️ Soporte mejorado para impresoras",
+    "📱 Mejor experiencia en dispositivos móviles"
+  ],
+  "changelog": [
+    "Versión 2.0.0 - Sistema completamente renovado",
+    "Corrección de parpadeo en pantalla de login",
+    "Mejoras en el módulo de cotizaciones",
+    "Optimización del sistema de actualizaciones",
+    "Nuevas opciones de personalización"
+  ],
+  "minVersion": "1.0.0",
+  "platforms": {
+    "windows": {
+      "url": "https://github.com/puntodeventasystempro-design/system-pro/releases/download/v2.0.0/sistema-facturacion-windows-v2.0.0.zip",
+      "size": "15 MB"
+    },
+    "macos": {
+      "url": "https://github.com/puntodeventasystempro-design/system-pro/releases/download/v2.0.0/sistema-facturacion-macos-v2.0.0.zip",
+      "size": "14 MB"
+    },
+    "linux": {
+      "url": "https://github.com/puntodeventasystempro-design/system-pro/releases/download/v2.0.0/sistema-facturacion-linux-v2.0.0.zip",
+      "size": "13 MB"
+    }
+  }
+}
